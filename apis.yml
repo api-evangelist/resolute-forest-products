@@ -1,7 +1,11 @@
 aid: resolute-forest-products
-url: https://raw.githubusercontent.com/api-evangelist/resolute-forest-products/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/resolute-forest-products/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.resolute-forest-products.com
+description: >-
+  Resolute Forest Products is a global leader in the forest products industry, producing
+  market pulp, tissue, wood products, and a variety of paper products.
