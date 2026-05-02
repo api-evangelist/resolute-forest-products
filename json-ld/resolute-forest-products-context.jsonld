@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "rfp": "https://www.resolutefp.com/vocab#",
+    "Organization": "Organization",
+    "name": "name",
+    "description": "description",
+    "url": "url",
+    "address": "address",
+    "parentOrganization": "parentOrganization",
+    "numberOfEmployees": "numberOfEmployees",
+    "foundingDate": "foundingDate",
+    "industry": "rfp:industry",
+    "marketPulp": {
+      "@id": "rfp:marketPulp",
+      "@type": "rfp:Product"
+    },
+    "tissue": {
+      "@id": "rfp:tissue",
+      "@type": "rfp:Product"
+    },
+    "woodProducts": {
+      "@id": "rfp:woodProducts",
+      "@type": "rfp:Product"
+    },
+    "newsprint": {
+      "@id": "rfp:newsprint",
+      "@type": "rfp:Product"
+    },
+    "woodPellets": {
+      "@id": "rfp:woodPellets",
+      "@type": "rfp:Product"
+    },
+    "Product": {
+      "@id": "rfp:Product",
+      "@type": "rdfs:Class"
+    },
+    "ManufacturingFacility": {
+      "@id": "rfp:ManufacturingFacility",
+      "@type": "rdfs:Class"
+    },
+    "ForestManagement": {
+      "@id": "rfp:ForestManagement",
+      "@type": "rdfs:Class"
+    },
+    "location": "location",
+    "certification": "rfp:certification",
+    "sustainabilityReport": "rfp:sustainabilityReport"
+  }
+}

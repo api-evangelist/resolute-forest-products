@@ -1,0 +1,96 @@
+vocabulary:
+  name: Resolute Forest Products Vocabulary
+  description: >-
+    Domain vocabulary for Resolute Forest Products, covering the forest products
+    industry including pulp and paper manufacturing, wood products, supply chain,
+    and sustainability terminology.
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  terms:
+    - term: Market Pulp
+      definition: >-
+        Chemical wood pulp sold on the open market for use in the manufacture of
+        paper, tissue, and other fiber-based products.
+      tags:
+        - Product
+        - Manufacturing
+    - term: Tissue
+      definition: >-
+        Lightweight paper products used for personal hygiene and cleaning,
+        including facial tissue, bath tissue, and paper towels.
+      tags:
+        - Product
+        - Consumer
+    - term: Newsprint
+      definition: >-
+        Low-cost, non-archival paper used primarily for printing newspapers,
+        produced from mechanical or recycled wood pulp.
+      tags:
+        - Product
+        - Publishing
+    - term: Wood Products
+      definition: >-
+        Lumber, engineered wood, wood pellets, and other manufactured products
+        derived from harvested timber.
+      tags:
+        - Product
+        - Manufacturing
+    - term: Kraft Pulp
+      definition: >-
+        Wood pulp produced by the chemical kraft process, known for its strength.
+        Used in the manufacture of packaging, paper bags, and specialty papers.
+      tags:
+        - Manufacturing
+        - Process
+    - term: Forest Stewardship
+      definition: >-
+        The responsible management of forests to maintain biodiversity, ecological
+        function, and carbon sequestration while enabling sustainable timber harvesting.
+      tags:
+        - Sustainability
+        - Environment
+    - term: Supply Chain
+      definition: >-
+        The network of facilities, suppliers, distributors, and logistics involved
+        in sourcing raw materials, manufacturing products, and delivering finished
+        goods to customers.
+      tags:
+        - Operations
+        - Logistics
+    - term: Sawmill
+      definition: >-
+        A facility where harvested logs are processed into dimensional lumber and
+        other wood products through cutting, drying, and finishing operations.
+      tags:
+        - Facility
+        - Manufacturing
+    - term: Wood Pellets
+      definition: >-
+        Compressed biomass fuel produced from wood waste and sawdust, used as a
+        renewable energy source in industrial and residential heating.
+      tags:
+        - Product
+        - Energy
+    - term: Paper Excellence Group
+      definition: >-
+        A global pulp and paper company that acquired Resolute Forest Products in
+        2023 through its subsidiary Domtar, becoming one of the largest producers
+        in North America.
+      tags:
+        - Corporate
+        - Ownership
+    - term: Domtar
+      definition: >-
+        A pulp and paper manufacturer and the parent company of Resolute Forest
+        Products following the 2023 acquisition by Paper Excellence Group.
+      tags:
+        - Corporate
+        - Subsidiary
+    - term: Engineered Wood
+      definition: >-
+        Manufactured wood products created by binding wood fibers, strands, or
+        veneers with adhesives to produce structural building materials with
+        enhanced strength and uniformity.
+      tags:
+        - Product
+        - Construction
