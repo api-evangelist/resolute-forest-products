@@ -32,7 +32,7 @@ common:
   - type: Vocabulary
     url: >-
       https://raw.githubusercontent.com/api-evangelist/resolute-forest-products/refs/heads/main/vocabulary/resolute-forest-products-vocabulary.yml
-  - type: JSON-LD Context
+  - type: JSONLDContext
     url: >-
       https://raw.githubusercontent.com/api-evangelist/resolute-forest-products/refs/heads/main/json-ld/resolute-forest-products-context.jsonld
 maintainers:
