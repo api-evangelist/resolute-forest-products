@@ -23,6 +23,8 @@ modified: '2026-05-02'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/resolute-forest-products-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/resolute-forest-products
   - type: Website
