@@ -1,7 +1,9 @@
 ---
 title: Paper Excellence acquires Resolute Forest Products | Work
 url: https://www.torys.com/work/2022/07/296eef18-d4aa-4451-bd37-acae30a77034
-date: '2026-05-25'
+published: '2022-07-29'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Resolute Forest Products" press release artificial intelligence'
 position: 3
 source: serpapi-google

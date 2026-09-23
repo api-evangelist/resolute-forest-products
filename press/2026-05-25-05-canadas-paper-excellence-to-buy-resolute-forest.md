@@ -1,7 +1,9 @@
 ---
 title: Canada's Paper Excellence to buy Resolute Forest ...
 url: https://www.reuters.com/markets/us/canadas-paper-excellence-buy-resolute-forest-products-27-bln-deal-2022-07-06/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Resolute Forest Products" press release artificial intelligence'
 position: 5
 source: serpapi-google
